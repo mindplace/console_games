@@ -4,7 +4,7 @@ Ruby console-playable games.
 => Battleship! Fully playable console game. User plays against computer, making guesses about where the computer
 has placed ships by firing at different locations. 
 <br />
-=> Greed game! Extra credit from the [Neo Koans](http://www.rubykoans.com/) course. More info in its [ReadMe](https://github.com/mindplace/learning/tree/master/Greed%20game).
+=> Greed game! Extra credit from the [Neo Koans](http://www.rubykoans.com/) course. More info in its [ReadMe](https://github.com/mindplace/console_games/tree/master/Greed%20game).
 Fully playable in the console. 
 <br />
 => Hangman game! Fully playable in the console. Was lots of fun to write and test. Doesn't graphically 
