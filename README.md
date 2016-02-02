@@ -1,3 +1,5 @@
+I write up my updates here: [log](http://mindplace-log.blogspot.com/)
+
 # Console Games!
 Ruby console-playable games. 
 <br /><br />
